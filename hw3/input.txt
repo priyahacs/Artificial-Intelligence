@@ -1,0 +1,5 @@
+1
+F(Tom)
+2
+A(Tom) => F(Tom)
+A(Tom)
